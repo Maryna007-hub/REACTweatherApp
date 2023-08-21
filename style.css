@@ -13,3 +13,8 @@ a {
     font-size: larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.contact-btn {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+}
